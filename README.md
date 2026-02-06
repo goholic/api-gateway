@@ -43,7 +43,7 @@ I am actively working on scaling this gateway to support enterprise-level patter
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/goholic/api-gateway.git](https://github.com/goholic/api-gateway.git)
+    git clone https://github.com/goholic/api-gateway.git
     cd api-gateway
     ```
 
